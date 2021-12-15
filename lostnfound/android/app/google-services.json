@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "900367816255",
+    "firebase_url": "https://timepass-5459e.firebaseio.com",
+    "project_id": "timepass-5459e",
+    "storage_bucket": "timepass-5459e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900367816255:android:ce3b3fcf11227669184a8a",
+        "android_client_info": {
+          "package_name": "com.example.lostnfound"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900367816255-fcln9kqgjvj72cop4ujcili7ds9fkdv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHGwRudGJPXgAnaY-JAactmoanU79y7t0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900367816255-fcln9kqgjvj72cop4ujcili7ds9fkdv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
